@@ -1,0 +1,90 @@
+body.background {
+    background: url("https://jooinn.com/images/blur-restaurant-1.png") no-repeat center center fixed;
+    background-size: cover;
+}
+
+.input-group-text{
+    width: 10px;
+    
+    color: rgb(3, 3, 3) !important;
+    background: none !important;
+    border: none !important;
+
+}
+
+.btn {
+    border-radius: 30px !important;
+    }
+.btn:hover{
+    background-color:lightgray !important;
+    color: rgb(6, 93, 255) !important;
+    border-color: darkgray !important;
+
+} 
+
+#btn1{
+    border-radius: 20px !important;
+    background-color: rgba(255, 255, 255, 0.541) !important;
+    color: black !important;
+    border: none !important;
+}
+#btn2{
+    border-radius: 20px !important;
+    background-color: rgba(255, 255, 255, 0.541) !important;
+    color: black !important;
+    border: none !important;
+}
+#btn3{
+    border-radius: 20px !important;
+    background-color: rgba(255, 255, 255, 0.541) !important;
+    color: black !important;
+    border: none !important;
+}
+#btn4{
+    border-radius: 20px !important;
+    background-color: rgba(255, 255, 255, 0.541) !important;
+    color: black !important;
+    border: none !important;
+}
+
+.signup{
+    text-align: center;
+}
+.signin{
+    text-align: center;
+}
+
+input{
+    border-radius: 30px !important;
+}
+select{
+    border-radius: 30px !important;
+}
+
+/* #loginbutton{
+    margin-left: 1200px;
+    margin-top: -50px;
+} */
+
+/* @media all and (min-width: 481px) and (max-width: 568px) {
+    #container {
+        margin-top: 10%;
+        margin-bottom: 10%;
+    }
+}
+    @media all and (min-width: 569px) and (max-width: 768px) {
+        #container {
+            margin-top: 5%;
+            margin-bottom: 5%;
+        }
+    } */
+
+
+    /* login or signup */
+    /* body {
+        background: url("https://images.unsplash.com/photo-1485802007047-7774de7208e5?dpr=1&auto=compress,format&fit=crop&w=1800&h") no-repeat center center fixed;
+        background-size: cover;
+        font-family: 'Droid Serif', serif;
+    } */
+    
+   
